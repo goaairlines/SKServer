@@ -13,9 +13,6 @@
 		2604C60E202C1769009CDBAF /* TitanRoutingExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C5EB202C1769009CDBAF /* TitanRoutingExtension.swift */; };
 		2604C60F202C1769009CDBAF /* TitanRoutingExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C5EB202C1769009CDBAF /* TitanRoutingExtension.swift */; };
 		2604C610202C1769009CDBAF /* TitanRoutingExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C5EB202C1769009CDBAF /* TitanRoutingExtension.swift */; };
-		2604C611202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C5EC202C1769009CDBAF /* README.md */; };
-		2604C612202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C5EC202C1769009CDBAF /* README.md */; };
-		2604C613202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C5EC202C1769009CDBAF /* README.md */; };
 		2604C614202C1769009CDBAF /* InitializerOverloads.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C5ED202C1769009CDBAF /* InitializerOverloads.swift */; };
 		2604C615202C1769009CDBAF /* InitializerOverloads.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C5ED202C1769009CDBAF /* InitializerOverloads.swift */; };
 		2604C616202C1769009CDBAF /* InitializerOverloads.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C5ED202C1769009CDBAF /* InitializerOverloads.swift */; };
@@ -58,9 +55,6 @@
 		2604C63B202C1769009CDBAF /* TitanLogs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C601202C1769009CDBAF /* TitanLogs.swift */; };
 		2604C63C202C1769009CDBAF /* TitanLogs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C601202C1769009CDBAF /* TitanLogs.swift */; };
 		2604C63D202C1769009CDBAF /* TitanLogs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C601202C1769009CDBAF /* TitanLogs.swift */; };
-		2604C63E202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C602202C1769009CDBAF /* README.md */; };
-		2604C63F202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C602202C1769009CDBAF /* README.md */; };
-		2604C640202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C602202C1769009CDBAF /* README.md */; };
 		2604C641202C1769009CDBAF /* TitanCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C603202C1769009CDBAF /* TitanCore.swift */; };
 		2604C642202C1769009CDBAF /* TitanCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C603202C1769009CDBAF /* TitanCore.swift */; };
 		2604C643202C1769009CDBAF /* TitanCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C603202C1769009CDBAF /* TitanCore.swift */; };
@@ -73,9 +67,6 @@
 		2604C64A202C1769009CDBAF /* Titan404.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C607202C1769009CDBAF /* Titan404.swift */; };
 		2604C64B202C1769009CDBAF /* Titan404.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C607202C1769009CDBAF /* Titan404.swift */; };
 		2604C64C202C1769009CDBAF /* Titan404.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C607202C1769009CDBAF /* Titan404.swift */; };
-		2604C64D202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C608202C1769009CDBAF /* README.md */; };
-		2604C64E202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C608202C1769009CDBAF /* README.md */; };
-		2604C64F202C1769009CDBAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2604C608202C1769009CDBAF /* README.md */; };
 		2604C650202C1769009CDBAF /* Titan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C60A202C1769009CDBAF /* Titan.swift */; };
 		2604C651202C1769009CDBAF /* Titan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C60A202C1769009CDBAF /* Titan.swift */; };
 		2604C652202C1769009CDBAF /* Titan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C60A202C1769009CDBAF /* Titan.swift */; };
@@ -478,7 +469,6 @@
 				2684F1791E95AA6900536DCC /* Frameworks */,
 				2684F17A1E95AA6900536DCC /* Headers */,
 				2684F17B1E95AA6900536DCC /* Resources */,
-				2668B5181EEB40E00082DE33 /* SwiftLint */,
 			);
 			buildRules = (
 			);
@@ -497,7 +487,6 @@
 				2684F1DE1E95ABD400536DCC /* Frameworks */,
 				2684F1DF1E95ABD400536DCC /* Headers */,
 				2684F1E01E95ABD400536DCC /* Resources */,
-				2668B5191EEB40EA0082DE33 /* SwiftLint */,
 			);
 			buildRules = (
 			);
@@ -516,7 +505,6 @@
 				2684F2021E95ABD600536DCC /* Frameworks */,
 				2684F2031E95ABD600536DCC /* Headers */,
 				2684F2041E95ABD600536DCC /* Resources */,
-				2668B51A1EEB40F30082DE33 /* SwiftLint */,
 			);
 			buildRules = (
 			);
@@ -533,7 +521,7 @@
 		2684F1741E95AA6900536DCC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = "Peter Zignego";
 				TargetAttributes = {
 					2684F17C1E95AA6900536DCC = {
@@ -572,9 +560,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2604C64D202C1769009CDBAF /* README.md in Resources */,
-				2604C63E202C1769009CDBAF /* README.md in Resources */,
-				2604C611202C1769009CDBAF /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -582,9 +567,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2604C64E202C1769009CDBAF /* README.md in Resources */,
-				2604C63F202C1769009CDBAF /* README.md in Resources */,
-				2604C612202C1769009CDBAF /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -592,58 +574,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2604C64F202C1769009CDBAF /* README.md in Resources */,
-				2604C640202C1769009CDBAF /* README.md in Resources */,
-				2604C613202C1769009CDBAF /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		2668B5181EEB40E00082DE33 /* SwiftLint */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = SwiftLint;
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "if which swiftlint >/dev/null; then\n    swiftlint\nelse\n    echo \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi";
-		};
-		2668B5191EEB40EA0082DE33 /* SwiftLint */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = SwiftLint;
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "if which swiftlint >/dev/null; then\n    swiftlint\nelse\n    echo \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi";
-		};
-		2668B51A1EEB40F30082DE33 /* SwiftLint */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = SwiftLint;
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "if which swiftlint >/dev/null; then\n    swiftlint\nelse\n    echo \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi";
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		2684F1781E95AA6900536DCC /* Sources */ = {
@@ -792,6 +726,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -799,6 +734,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -851,6 +787,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -858,6 +795,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
